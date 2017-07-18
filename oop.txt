@@ -1,0 +1,9 @@
+4 cur paradigma var paradiqma menim fikirmce her hansisa meselenin nece hell usuludur bunlar
+obyekt yonumlu logical funksiyonal ve imperativ paradiqmadi imperativde her wey step by step olr
+birinci qurtarir sora digeri bawlayir funksiyonalda her wey mentiqi riyazi funskiyalara baqlanir 
+logicalda ise hamsinin birlewmesi var obyekt yonumlude her weye obyekt kimi baxilir hazirda
+obyekt yonumlu en cox istifade olunan paradiqmadi bunun adindanda obyekt yonumlu diller meydana gelmiwdi 
+bu paradiqma classlardan ibaretdi classlar data typelardi encapsulation yeni obyektlerin hami ucun public ve ya
+private olmasini bildirir inheritance bir data type in digerinde olmasini bildirir meselen taxta taxtadan hem
+stol duzeldilir hemde qapi yeni ikisinde menbeyinde taxta data si var 
+ 
